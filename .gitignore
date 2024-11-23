@@ -1,0 +1,34 @@
+### main folder
+
+
+### oauth-server
+
+oauth-server/.mvn/
+oauth-server/.vscode/
+oauth-server/target/
+oauth-server/.gitattributes
+oauth-server/HELP.md
+oauth-server/mvnw
+oauth-server/mvnw.cmd
+
+
+### resource-server
+
+resource-server/.mvn/
+resource-server/.vscode/
+resource-server/target/
+resource-server/.gitattributes
+resource-server/HELP.md
+resource-server/mvnw
+resource-server/mvnw.cmd
+
+
+### oauth-client
+
+oauth-client/.mvn/
+oauth-client/.vscode/
+oauth-client/target/
+oauth-client/.gitattributes
+oauth-client/HELP.md
+oauth-client/mvnw
+oauth-client/mvnw.cmd
